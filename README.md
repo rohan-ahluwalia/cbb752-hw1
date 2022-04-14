@@ -5,10 +5,10 @@ Homework 1 for cbb752 course. SW alignment algorithm
 
 You should call 
 
-<python hw1.py -i sample-input.txt -s blosum62.txt> 
+`python hw1.py -i sample-input.txt -s blosum62.txt>`
 
-which will give you the results in a file named: <output.txt>
+which will give you the results in a file named: `output.txt`
 
 You can check if these results are right by calling the following command:
 
-<diff -E -b output.txt sample-output1.txt>
+`diff -E -b output.txt sample-output1.txt`
